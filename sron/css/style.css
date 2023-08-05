@@ -1,0 +1,54 @@
+button{
+	width: 100px;
+	height: 50px;
+	font-size: 20px
+	display:flex;
+	align-items: center;
+	justify-content:space-around;
+	border: 0;
+	border-radius: 30px;
+}
+button.look:hover{
+	background: #00a6ff no-repeat;
+	color: #0000ff;
+}
+button.look{
+	background: #00007f;
+	color: #0000ff;
+}
+button.yinhe:hover{
+	background: #ff8aff;
+	color: #b000b0;
+}
+button.yinhe{
+	background:#8239ff;
+	color:#490283;
+}
+button.diffcult{
+	background: #ff9500;
+	color: #ff5500;
+}
+button.diffcult:hover{
+	background: #eaff00;
+	color: #b10000;
+}
+button.other{
+	background: #1d7f00;
+	color: blue;
+}
+button.other:hover{
+	background: #88ff00;
+	color: black;
+}
+div{
+	color: #b8b8b8;
+	background: #232323;
+	padding: 20px;
+}
+div.text{
+	background: #232323;
+}
+.light{
+	color: #ffffff;
+}
+img{width:70%; max-width:70%;}
